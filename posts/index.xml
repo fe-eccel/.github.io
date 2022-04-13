@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Meu site Hugo Eccel</title>
     <link>https://fe-eccel.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Meu site Hugo Eccel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Apr 2022 09:35:02 -0300</lastBuildDate><atom:link href="https://fe-eccel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 10:49:50 -0300</lastBuildDate><atom:link href="https://fe-eccel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aviatrix</title>
+      <link>https://fe-eccel.github.io/aviatrix/</link>
+      <pubDate>Wed, 13 Apr 2022 10:49:50 -0300</pubDate>
+      
+      <guid>https://fe-eccel.github.io/aviatrix/</guid>
+      <description> [!NOTE] Information the user should notice even if skimming.
+  [!TIP] Optional information to help a user be more successful.
+  [!IMPORTANT] Essential information required for user success.
+  [!CAUTION] Negative potential consequences of an action.
+  [!WARNING] Dangerous certain consequences of an action.
+ </description>
+    </item>
+    
     <item>
       <title>Meu Primeiro Post</title>
       <link>https://fe-eccel.github.io/meu-primeiro-post/</link>
