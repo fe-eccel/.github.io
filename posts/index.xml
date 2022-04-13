@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://fe-eccel.github.io/posts/</link>
+    <link>/fe-eccel.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Apr 2022 09:35:02 -0300</lastBuildDate><atom:link href="https://fe-eccel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 09:35:02 -0300</lastBuildDate><atom:link href="/fe-eccel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meu Primeiro Post</title>
-      <link>https://fe-eccel.github.io/meu-primeiro-post/</link>
+      <link>/fe-eccel.github.io/meu-primeiro-post/</link>
       <pubDate>Wed, 13 Apr 2022 09:35:02 -0300</pubDate>
       
-      <guid>https://fe-eccel.github.io/meu-primeiro-post/</guid>
+      <guid>/fe-eccel.github.io/meu-primeiro-post/</guid>
       <description>TESTE TESTE TESTE teste Commodo reprehenderit magna non cupidatat velit labore non esse labore in dolore. Laborum culpa consectetur sit veniam nisi magna ad tempor id eiusmod deserunt. Nostrud sit eiusmod exercitation exercitation consequat labore.</description>
     </item>
     
